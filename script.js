@@ -1,7 +1,7 @@
 document.getElementById('submitButton').addEventListener('click', async () => {
     const inputText = document.getElementById('inputText').value;
     const chatContainer = document.getElementById('chat');
-    const apiKey = 'sk-None-BVbIJcww34ICwib6XaMmT3BlbkFJlKb37uHLwwjhx6aqD5bP'; // Replace with your actual API key
+    const apiKey = 'add your API key'; 
 
     if (!inputText.trim()) {
         return;
