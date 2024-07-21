@@ -8,6 +8,7 @@ This repository is a simple chat interface using HTML, CSS, and JavaScript that 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0136fe71-9429-45a6-9c8c-5d61aa0a317e" alt="Robotic Arm Image 1" width="400" height="500">
 </p>
+
 ---
 
 ## Features
