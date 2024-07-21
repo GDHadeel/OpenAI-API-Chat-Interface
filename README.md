@@ -19,9 +19,9 @@ This repository is a simple chat interface using HTML, CSS, and JavaScript that 
 
 
 ## Files
-* [`index.html`](): The main HTML file containing the structure of the chat interface.
-* [`styles.css`](): The CSS file for styling the chat interface.
-* [`script.js`](): The JavaScript file that handles sending and receiving messages via the OpenAI API.
+* [`index.html`](https://github.com/GDHadeel/OpenAI-API-Chat-Interface/blob/main/index.html): The main HTML file containing the structure of the chat interface.
+* [`styles.css`](https://github.com/GDHadeel/OpenAI-API-Chat-Interface/blob/main/style.css): The CSS file for styling the chat interface.
+* [`script.js`](https://github.com/GDHadeel/OpenAI-API-Chat-Interface/blob/main/script.js): The JavaScript file that handles sending and receiving messages via the OpenAI API.
 
 
 ## Requirements
