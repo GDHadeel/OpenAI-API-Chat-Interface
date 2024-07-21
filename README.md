@@ -28,8 +28,13 @@ This repository is a simple chat interface using HTML, CSS, and JavaScript that 
 * A web browser (Chrome, Firefox, Safari, or Edge).
 * An active OpenAI API key.
 
+## Demo 
+
+![chatbot](https://github.com/user-attachments/assets/6466b18d-af7c-4271-8f04-417aa6cd63f7)
 
 
 ## Acknowledgments
-https://medium.com/@gopesh3652/building-a-voice-to-text-app-with-javascript-a-step-by-step-guide-9042493bdd63
+https://www.youtube.com/watch?v=DFmmiYlbgX0&list=LL&index=8
+
+https://www.youtube.com/watch?v=1tNER04Ytyc&list=LL&index=7&t=874s
 
