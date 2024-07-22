@@ -1,7 +1,7 @@
 document.getElementById('submitButton').addEventListener('click', async () => {
     const inputText = document.getElementById('inputText').value;
     const chatContainer = document.getElementById('chat');
-    const apiKey = 'add your API key'; 
+    const apiKey = ''; 
 
     if (!inputText.trim()) {
         return;
@@ -17,7 +17,7 @@ document.getElementById('submitButton').addEventListener('click', async () => {
     document.getElementById('inputText').value = '';
 
     try {
-        const response = await fetch('https://api.openai.com/v1/chat/completions', {
+        const response = await fetch('', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
